@@ -4,4 +4,4 @@
 	.st2{fill:none;stroke:red;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
 	.st3{clip-path:url(#SVGID_2_);stroke:red;}
 	.st4{fill:red;}
-</style><g><path d="M32,4c15.4,0,28,12.6,28,28S47.4,60,32,60S4,47.4,4,32S16.6,4,32,4 M32,0C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32   S49.7,0,32,0L32,0z" fill="red"/></g><path class="st0" d="M47,47.5C44.8,41.4,38.9,37,32,37c-6.9,0-12.8,4.4-15,10.5"/><circle cx="18" cy="26" r="4"/><circle cx="46" cy="26" r="4"/></svg>
+</style><g><path d="M32,4c15.4,0,28,12.6,28,28S47.4,60,32,60S4,47.4,4,32S16.6,4,32,4 M32,0C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32   S49.7,0,32,0L32,0z" fill="red"/></g><path class="st0" d="M47,47.5C44.8,41.4,38.9,37,32,37c-6.9,0-12.8,4.4-15,10.5" fill="red"/><circle cx="18" cy="26" r="4" /><circle cx="46" cy="26" r="4"/></svg>
