@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 64 80" style="enable-background:new 0 0 64 64;" xml:space="preserve"><style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st2{stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
-	.st3{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st0{fill:none;stroke:rgb(254, 241, 96);stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:rgb(254, 241, 96);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{stroke:rgb(254, 241, 96);stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{clip-path:url(#SVGID_2_);fill:rgb(254, 241, 96);}
 	.st4{fill:none;}
 </style><g><path d="M32,4c15.4,0,28,12.6,28,28S47.4,60,32,60S4,47.4,4,32S16.6,4,32,4 M32,0C14.3,0,0,14.3,0,32s14.3,32,32,32s32-14.3,32-32   S49.7,0,32,0L32,0z"/></g><line class="st1" x1="47" y1="39" x2="17" y2="39"/><circle cx="18" cy="26" r="4"/><circle cx="46" cy="26" r="4"/></svg>
